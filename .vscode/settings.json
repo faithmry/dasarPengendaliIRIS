@@ -1,0 +1,13 @@
+{
+  "ros.distro": "noetic",
+  "files.associations": {
+    "iostream": "cpp",
+    "ostream": "cpp"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.trimAutoWhitespace": true,
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  }
+}
