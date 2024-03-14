@@ -3,7 +3,7 @@
 #include <cstring>
 #include <unistd.h>
 #include <arpa/inet.h>
-
+//
 float analog_l[2][2], analog_r[2][2];
 int8_t button_kotak[2], button_lingkaran[2], button_silang[2], button_segitiga[2], button_r1[2], button_l1[2], button_up[2], button_down[2], button_left[2], button_right[2], button_r2[2], button_l2[2];
 
