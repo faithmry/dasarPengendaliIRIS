@@ -1,0 +1,8 @@
+/home/faith/Documents/OpenCV/build/CMakeFiles/rebuild_cache.dir
+/home/faith/Documents/OpenCV/build/CMakeFiles/edit_cache.dir
+/home/faith/Documents/OpenCV/build/CMakeFiles/moda5.dir
+/home/faith/Documents/OpenCV/build/CMakeFiles/moda4.dir
+/home/faith/Documents/OpenCV/build/CMakeFiles/moda3.dir
+/home/faith/Documents/OpenCV/build/CMakeFiles/moda2.dir
+/home/faith/Documents/OpenCV/build/CMakeFiles/moda1.dir
+/home/faith/Documents/OpenCV/build/CMakeFiles/main.dir

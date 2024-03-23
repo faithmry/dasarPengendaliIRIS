@@ -1,0 +1,32 @@
+project(OpencvExample)
+cmake_minimum_required(VERSION 3.16)
+find_package(OpenCV REQUIRED)
+
+include_directories(
+    ${OpenCV_INCLUDE_DIRS}
+)
+
+
+add_executable(main src/main.cpp)
+target_link_libraries(main ${OpenCV_LIBS})
+
+add_executable(vid_ex src/vid_ex.cpp)
+target_link_libraries(vid_ex ${OpenCV_LIBS})
+
+add_executable(resize_vid src/resize_vid.cpp)
+target_link_libraries(resize_vid ${OpenC_LIBS})
+
+add_executable(crop_vid src/crop_vid.cpp)
+target_link_libraries(crop_vid ${OpenCV_LIBS})
+
+add_executable(bola task1/bola.cpp)
+target_link_libraries(bola ${OpenCV_LIBS})
+
+add_executable(tennis task1/tennis.cpp)
+target_link_libraries(tennis ${OpenCV_LIBS})
+
+add_executable(plastik task1/plastik.cpp)
+target_link_libraries(plastik ${OpenCV_LIBS})
+
+add_executable(test task1/test.cpp)
+target_link_libraries(test ${OpenCV_LIB
