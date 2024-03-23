@@ -1,3 +1,0 @@
-<launch>
-    <node name="multicast" pkg="master" type="multicast" output="screen" respawn="true"/>
-</launch>
